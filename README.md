@@ -47,6 +47,4 @@
 
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nascimento-dev-io&show_icons=true&locale=en&layout=compact" alt="nascimento-dev-io" />
-</p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nascimento-dev-io&show_icons=true&locale=en" alt="nascimento-dev-io" /></p>
+</p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nascimento-dev-io&show_icons=true&locale=en" alt="nascimento-dev-io" /></p>
