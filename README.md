@@ -36,13 +36,6 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>       </a> 
     
-     <a href="https://www.w3schools.com/react/react_router.asp" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/web-apps-4659f.appspot.com/o/react-router.svg?alt=media&token=855c8255-8317-4525-ac9a-5b6dee227191" alt="styled components" width="40" height="40"/></a>
-    
-    <a href="https://styled-components.com/" target="_blank" rel="noreferrer">
-    <img src="https://firebasestorage.googleapis.com/v0/b/web-apps-4659f.appspot.com/o/styled-components.png?alt=media&token=72dd47e7-ddd0-4f93-ae66-b05824f0a6c9" alt="styled components" width="40" height="40"/></a>   
-    
-  
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
   </a>
